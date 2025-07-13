@@ -1,2 +1,9 @@
 venv
-data
+notifier/__pycache__
+core/__pycache__
+test_announder.py
+test_discord_notifier.py
+test_telegram_notifier.py
+test_token.py
+test_tracker.py
+test_utils.py
