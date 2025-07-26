@@ -1,4 +1,4 @@
-# core/token.py
+# core/generate_token.py
 
 import requests
 import uuid
